@@ -6,6 +6,7 @@ int main()
 	int i, j; 
 	int temp;
 	a[1] = 1;
+	printf("1\n");
 	for (j = 1; j <= 10; j++)
 	{
 		for (i = 1; i <= j; i++)
@@ -16,11 +17,12 @@ int main()
 		//j++;
 		for (temp = 1; temp <= j+1; temp++)
 		{
-			a[i] = b[i];
+			a[temp] = b[temp];
 		}
 		for (temp = 1; temp <= j+1; temp++)
 		{
-			printf("%d\n", a[i]);
+			printf("%d\t", a[temp]);
 		}
+		printf("\n");
 	}
 }
