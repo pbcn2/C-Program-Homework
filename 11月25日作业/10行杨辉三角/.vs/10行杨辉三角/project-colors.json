@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c5e8b7ad-3aa3-40e4-8186-84d2757c5c70": {
+      "ProjectGuid": "c5e8b7ad-3aa3-40e4-8186-84d2757c5c70",
+      "DisplayName": "10行杨辉三角",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
