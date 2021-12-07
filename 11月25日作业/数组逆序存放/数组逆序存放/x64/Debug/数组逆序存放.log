@@ -1,3 +1,4 @@
 ﻿  源.cpp
-C:\Users\Administrator\Desktop\数组逆序存放\数组逆序存放\源.cpp(6,9): warning C4101: “j”: 未引用的局部变量
-  数组逆序存放.vcxproj -> C:\Users\Administrator\Desktop\数组逆序存放\x64\Debug\数组逆序存放.exe
+E:\Clone From Github\C-Program-Homework\11月25日作业\数组逆序存放\数组逆序存放\源.cpp(6,9): warning C4101: “j”: 未引用的局部变量
+  LINK : 没有找到 E:\Clone From Github\C-Program-Homework\11月25日作业\数组逆序存放\x64\Debug\数组逆序存放.exe 或上一个增量链接没有生成它；正在执行完全链接
+  数组逆序存放.vcxproj -> E:\Clone From Github\C-Program-Homework\11月25日作业\数组逆序存放\x64\Debug\数组逆序存放.exe

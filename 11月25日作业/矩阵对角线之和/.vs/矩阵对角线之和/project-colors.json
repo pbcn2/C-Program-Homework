@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5235b355-a6dc-4031-b20b-5af45c3fc609": {
+      "ProjectGuid": "5235b355-a6dc-4031-b20b-5af45c3fc609",
+      "DisplayName": "矩阵对角线之和",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
